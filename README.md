@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>🔭 Working on: NITKKR InterviewPrep & Placement Portal (MERN, AI, Firebase)<br>👯 Collab on: Open-source AI/ML full-stack projects<br>🤝 Need help with: AI/ML deployment & scalable backends<br>🌱 Learning: Advanced React/Node & AI voice/chat systems<br>💬 Ask me about: MERN, Firebase, Tailwind, CP, AI web apps<br>⚡ Fun fact: 350+ LeetCode problems, Techspardha semi-finalist, coffee → code ☕💻
+<br><br>🔭 Working on: NITKKR InterviewPrep & Placement Portal (MERN, AI, Firebase)<br>👯 Collab on: Open-source AI/ML full-stack projects<br>🤝 Need help with: AI/ML deployment & scalable backends<br>🌱 Learning: Advanced React/Node & AI voice/chat systems<br>💬 Ask me about: MERN, Firebase, Tailwind, CP, AI web apps<br>⚡ Fun fact: 350+ LeetCode problems, Techspardha semi-finalist, coffee → code ☕💻
 
 
 ## 🌐 Socials:
