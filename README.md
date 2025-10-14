@@ -1,4 +1,4 @@
-💫 About Me
+#💫 About Me
 
 🔭 Working on: NITKKR InterviewPrep & Placement Portal (MERN, AI, Firebase)
 👯 Collab on: Open-source AI/ML full-stack projects
