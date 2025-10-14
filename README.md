@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>-NITKKR InterviewPrep – AI-powered placement preparation platform (MERN, Firebase, Whisper, HuggingFace)<br>-Placement Portal – Centralized placement dashboard with RBAC (MERN, React, Tailwind)<br><br>👯 I’m looking to collaborate on<br><br>-Open-source full-stack projects involving AI/ML integration<br>-Web apps with real-time APIs or AI-driven features<br><br>🤝 I’m looking for help with<br><br>-Advanced AI/ML model deployment and optimization<br>-Scalable backend architectures<br><br>🌱 I’m currently learning<br><br>-Advanced React & Node.js patterns<br>-AI-driven voice and chat systems<br><br>Cloud deployments (AWS / Firebase)<br><br>💬 Ask me about<br><br>-MERN stack development, Firebase, Tailwind CSS<br>-Competitive programming & algorithms<br>-Building interactive and AI-integrated web apps<br><br>⚡ Fun fact<br><br>-Solved 350+ problems on LeetCode & GeeksforGeeks<br>-Semi-finalist in Techspardha Hackathon<br>-Can turn coffee into code ☕💻
+💫 About Me
 
+🔭 Working on: NITKKR InterviewPrep & Placement Portal (MERN, AI, Firebase)
+👯 Collab on: Open-source AI/ML full-stack projects
+🤝 Need help with: AI/ML deployment & scalable backends
+🌱 Learning: Advanced React/Node & AI voice/chat systems
+💬 Ask me about: MERN, Firebase, Tailwind, CP, AI web apps
+⚡ Fun fact: 350+ LeetCode problems, Techspardha semi-finalist, coffee → code ☕💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushantil1111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-antil-a43634310) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushantil2023@gmail.com) 
