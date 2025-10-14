@@ -1,6 +1,11 @@
 # 💫 About Me:
-<br>🔭 Working on: NITKKR InterviewPrep & Placement Portal (MERN, AI, Firebase)<br>👯 Collab on: Open-source AI/ML full-stack projects<br>🤝 Need help with: AI/ML deployment & scalable backends<br>🌱 Learning: Advanced React/Node & AI voice/chat systems<br>💬 Ask me about: MERN, Firebase, Tailwind, CP, AI web apps<br>⚡ Fun fact: 350+ LeetCode problems, Techspardha semi-finalist, coffee → code ☕💻
 
+<br>🔭 Currently Working On: Developing NITKKR InterviewPrep & Placement Portal, a full-stack MERN application integrated with AI features and Firebase for seamless authentication and data management.
+<br>👯 Collaborating On: Contributing to open-source AI/ML full-stack projects, focusing on building scalable and efficient solutions.
+<br>🤝 Looking For Help With: Implementing AI/ML model deployment, scalable backend architectures, and optimizing real-time web applications.
+<br>🌱 Learning: Advanced React.js, Node.js, and exploring AI-powered voice/chat systems to enhance interactive web applications.
+<br>💬 Ask Me About: MERN stack, Firebase, Tailwind CSS, Competitive Programming, AI web apps, and best practices in full-stack development.
+<br>⚡ Fun Facts: Solved 350+ LeetCode problems, semi-finalist in Techspardha, and fueled by coffee → code ☕💻.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushantil1111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-antil-a43634310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushantil2023@gmail.com) 
