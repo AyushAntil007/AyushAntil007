@@ -27,7 +27,7 @@
 
 ## ⚙️ About Me
 
-```python
+```
 I turn raw, chaotic data into production-grade pipelines and intelligent systems — from real-time fraud detection to autonomous LLM agents.
 What I work on:
 
