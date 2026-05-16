@@ -115,22 +115,6 @@ Right now I'm laser-focused on next-gen LLM Agents, RAG Systems, and Streaming A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAntil007&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </div>
 
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🏅 | Achievement |
-|:---:|:---|
-| 🏆 | **Hackathon Competitor** — Built data & AI products under 24/48hr pressure |
-| ⚔️ | **Competitive Programmer** — Solving DSA on LeetCode / Codeforces / CodeChef |
-| 🔥 | **Pipeline Architect** — Designed end-to-end ETL + real-time streaming systems |
-| 🤖 | **AI Agent Developer** — Built agentic workflows with LLMs, tools & memory |
-| 🚀 | **Project Shipper** — Real-world apps spanning fraud detection, GenAI & distributed systems |
-| 📚 | **Lifelong Learner** — New framework? Learned it. New paper? Read it. New tech? Built with it. |
-
-</div>
 
 ---
 
