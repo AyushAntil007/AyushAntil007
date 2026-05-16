@@ -174,11 +174,9 @@ Right now I'm laser-focused on next-gen LLM Agents, RAG Systems, and Streaming A
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-**I don't just process data — I architect the systems that make sense of it.**
 
 <br/>
 
-*⭐ If my work inspires you, drop a star — it fuels the next build!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19&height=100&section=footer&animation=twinkling" width="100%"/>
 
