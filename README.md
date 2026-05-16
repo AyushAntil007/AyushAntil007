@@ -28,26 +28,17 @@
 ## ⚙️ About Me
 
 ```python
-class DataEngineer:
-    def __init__(self):
-        self.name        = "Ayush Antil"
-        self.role        = "Data Engineer & AI/ML Builder"
-        self.location    = "India 🇮🇳"
-        self.domains     = [
-            "Real-Time Fraud Detection 🔍",
-            "Distributed Data Processing ⚙️",
-            "Generative AI & Agentic Systems 🤖",
-            "Deep Learning & MLOps 🧠",
-        ]
-        self.stack       = ["Python", "C++", "SQL", "Spark", "Kafka", "Airflow"]
-        self.superpower  = "Turning raw data chaos → production-grade pipelines"
-        self.currently   = ["LLM Agents", "RAG Systems", "Streaming Architectures"]
+I turn raw, chaotic data into production-grade pipelines and intelligent systems — from real-time fraud detection to autonomous LLM agents.
+What I work on:
 
-    def philosophy(self):
-        return "Data is the new oil — I build the refinery. 🛢️➡️⚡"
+🔍 Catching anomalies in real-time with smart fraud detection systems
+⚙️ Scaling massive data workflows with Spark, Kafka & Airflow
+🤖 Building autonomous AI agents and advanced RAG pipelines
+🧠 Training, deploying & maintaining deep learning models in production
 
-me = DataEngineer()
-print(me.philosophy())
+Right now I'm laser-focused on next-gen LLM Agents, RAG Systems, and Streaming Architectures.
+
+"Data is the new oil — I build the refinery." 🛢️⚡
 ```
 
 ---
