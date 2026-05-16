@@ -9,7 +9,6 @@
      ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚══════╝
 ```
 
-# `< Ayush Antil />`
 
 ### ⚡ Data Engineer · AI/ML Builder · Distributed Systems Enthusiast
 
